@@ -1,0 +1,8 @@
+﻿applications:
+- name: helloworld-python
+  instances: 1
+  memory: 128M
+  stack: cflinuxfs3
+  random-route: true
+  buildpacks:
+   - dicf_python_buildpack_latest 
