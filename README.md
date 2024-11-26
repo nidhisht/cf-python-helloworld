@@ -1,4 +1,5 @@
 # cf-python-helloworld
+This is a sample "Hello World" Python application for deployment on Cloud Foundry.
 
 
 ## Deployment Steps
